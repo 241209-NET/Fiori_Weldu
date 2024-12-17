@@ -1,0 +1,15 @@
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Mini_Project/bin/Debug/net8.0/Mini_Project
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Mini_Project/bin/Debug/net8.0/Mini_Project.deps.json
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Mini_Project/bin/Debug/net8.0/Mini_Project.runtimeconfig.json
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Mini_Project/bin/Debug/net8.0/Mini_Project.dll
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Mini_Project/bin/Debug/net8.0/Mini_Project.pdb
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Mini_Project/obj/Debug/net8.0/Mini_Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Mini_Project/obj/Debug/net8.0/Mini_Project.AssemblyInfoInputs.cache
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Mini_Project/obj/Debug/net8.0/Mini_Project.AssemblyInfo.cs
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Mini_Project/obj/Debug/net8.0/Mini_Project.csproj.CoreCompileInputs.cache
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Mini_Project/obj/Debug/net8.0/Mini_Project.sourcelink.json
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Mini_Project/obj/Debug/net8.0/Mini_Project.dll
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Mini_Project/obj/Debug/net8.0/refint/Mini_Project.dll
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Mini_Project/obj/Debug/net8.0/Mini_Project.pdb
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Mini_Project/obj/Debug/net8.0/Mini_Project.genruntimeconfig.cache
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Mini_Project/obj/Debug/net8.0/ref/Mini_Project.dll
