@@ -1,10 +1,10 @@
-#Nannies Management System
+# Nannies Management System
 This is an ASP.NET Core application that allows users to build and persist nanny information to backend.
 
-##Project Members
+## Project Members
 Fiori Weldu
 
-##Project Requirements
+## Project Requirements
 The application must build and run.
 The application should have Unit Testing (20% code coverage, at least 5 unit tests that tests 5 different methods/functionality of the code)
 The application must have an ERD of the database
@@ -21,7 +21,7 @@ ASP.NET (Web API Framework)
 Entity Framework Core
 xUnit
 
-##User Stories
+## User Stories
 User should be able to get all  Nanny from database with cooresponding information
 User should be able to insert a new Nanny to the database with cooresponding information
 User should be able to update an existing Nanny information
@@ -30,7 +30,7 @@ User should be able to delete an existing Nanny information
 Tables.
 alt text
 
-##MVP Goals
+## MVP Goals
 CRUD (create, retrieve, update, delete) operations on a nanny table
 
-##Stretch Goals
+## Stretch Goals
