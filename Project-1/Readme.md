@@ -5,9 +5,9 @@ This is an ASP.NET Core application that allows users to build and persist nanny
 Fiori Weldu
 
 ## Project Requirements
-** The application must build and run.
-** The application should have Unit Testing (20% code coverage, at least 5 unit tests that tests 5 different methods/functionality of the code)
-The application must have an ERD of the database
+The application must build and run. < br />
+The application should have Unit Testing (20% code coverage, at least 5 unit tests that tests 5 different methods/functionality of the code)< br />
+The application must have an ERD of the database< br />
 The application should be an ASP.NET Core application
 The application must interract with users via HTTP(s)
 The application must be RESTful API
