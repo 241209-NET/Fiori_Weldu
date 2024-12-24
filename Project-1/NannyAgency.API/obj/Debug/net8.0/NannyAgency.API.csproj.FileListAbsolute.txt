@@ -1,0 +1,8 @@
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Project-1/NannyAgency.API/obj/Debug/net8.0/NannyAgency.API.csproj.AssemblyReference.cache
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Project-1/NannyAgency.API/obj/Debug/net8.0/NannyAgency.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Project-1/NannyAgency.API/obj/Debug/net8.0/NannyAgency.API.AssemblyInfoInputs.cache
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Project-1/NannyAgency.API/obj/Debug/net8.0/NannyAgency.API.AssemblyInfo.cs
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Project-1/NannyAgency.API/obj/Debug/net8.0/NannyAgency.API.csproj.CoreCompileInputs.cache
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Project-1/NannyAgency.API/obj/Debug/net8.0/NannyAgency.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Project-1/NannyAgency.API/obj/Debug/net8.0/NannyAgency.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/abel_wld/Desktop/REVATURE/Fiori_Weldu/Project-1/NannyAgency.API/obj/Debug/net8.0/NannyAgency.API.sourcelink.json

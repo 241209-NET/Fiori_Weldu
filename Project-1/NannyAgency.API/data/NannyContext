@@ -1,0 +1,11 @@
+using Microsoft.EntityFrameworkCore;
+using NannyAgency.API.Model;
+namespace NannyAgency.API.data;
+
+public class NannyContext : DbContext
+{
+    public NannyContext(){}
+    public NannyContext(DbContextOptions<NannyAgencyContext> options) : base(options){}
+
+    public DbSet<User> Users { get; set; }
+}
