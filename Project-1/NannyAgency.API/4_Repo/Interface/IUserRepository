@@ -1,0 +1,7 @@
+
+namespace NannyAgency.API.Repository;
+
+public interface IUserRepository;
+{
+    
+}

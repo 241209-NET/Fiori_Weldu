@@ -1,0 +1,12 @@
+using NannyAgency.API.Repository;
+
+namespace NannyAgency.API.Service;
+
+public class UserService : IUserService
+{
+    private readonly IUserRepository _userRepository;
+
+    public UserService(IUserRepository userRepository) => _userRepository = userRepository;
+
+    public bool IsEven(int n) => n % 2 == 0;
+}

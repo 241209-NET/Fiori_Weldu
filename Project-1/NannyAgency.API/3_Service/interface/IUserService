@@ -1,0 +1,6 @@
+namespace NannyAgency.API.Service;
+
+public interface IUserService
+{
+    bool IsEven(int n);
+}

@@ -1,0 +1,12 @@
+using namespace NannyAgency.API.data;
+
+namespace NannyAgency.API.Repository;
+
+public class UserRepository : IUserRepository
+{
+    private readonly NannyContext _nannyContext;
+
+    public StudentRepository(NannyContext nannyContext) => _nannyContext = nannyContext;
+
+    //Start wiritng Repo CRUD
+}

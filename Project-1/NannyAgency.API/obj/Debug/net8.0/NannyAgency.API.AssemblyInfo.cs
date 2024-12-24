@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NannyAgency.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b732320b744dbd87545185a4a280d51909dd9846")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87f3e429dc3ab004d11b3180391dd0613114eff0")]
 [assembly: System.Reflection.AssemblyProductAttribute("NannyAgency.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NannyAgency.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
