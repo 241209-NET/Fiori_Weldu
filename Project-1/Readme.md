@@ -20,6 +20,7 @@ This is an ASP.NET Core application that allows users to build and persist nanny
 * ASP.NET (Web API Framework)<br/>
 * Entity Framework Core<br/>
 * xUnit<br/>
+![alt text](http://url/to/img.png)
 
 ## User Stories
 * User should be able to get all  Nanny from database with cooresponding information<br/>
