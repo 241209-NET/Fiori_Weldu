@@ -10,11 +10,11 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("4e8d2509-d719-457b-ae13-e5a26afc7440")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("00bf4aee-b7c5-4acb-96c1-e291d698dc35")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("NannyAgency.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87f3e429dc3ab004d11b3180391dd0613114eff0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93232c89785c7d0f2f2ab3425298a60a03f663b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("NannyAgency.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NannyAgency.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

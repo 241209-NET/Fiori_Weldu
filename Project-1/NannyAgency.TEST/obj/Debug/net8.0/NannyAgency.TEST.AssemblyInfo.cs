@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NannyAgency.TEST")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b732320b744dbd87545185a4a280d51909dd9846")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93232c89785c7d0f2f2ab3425298a60a03f663b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("NannyAgency.TEST")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NannyAgency.TEST")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

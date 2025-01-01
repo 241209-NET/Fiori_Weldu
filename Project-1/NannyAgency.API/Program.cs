@@ -1,5 +1,8 @@
 using Microsoft.EntityFrameworkCore;
-using NannyAgency.API.data;
+using NANNYAGENCY.API.Data;
+using NANNYAGENCY.API.Repository;
+using NANNYAGENCY.API.Service;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,15 +10,15 @@ var builder = WebApplication.CreateBuilder(args);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<NannyContext>(options => options.UseSqlServer(builder.Configuration
-.GetConnectionString("NannyAgency")));
 
+builder.Services.AddDbContext<NannyContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 //Add service dependencies
-builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<IClientRepository, ClientRepository>();
 
 //Add repo dependencies
-builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IClientService, ClientService>();
 
 //Add controllers
 builder.Services.AddControllers()
@@ -23,6 +26,8 @@ builder.Services.AddControllers()
     {
         options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.IgnoreCycles;
     });
+
+
 
 
 var app = builder.Build();
@@ -35,7 +40,6 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
 app.MapControllers();
 app.Run();
 

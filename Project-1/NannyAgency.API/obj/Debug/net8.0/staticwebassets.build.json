@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zAxRyrtVQgzt5HCH76urXuu26+9gBtmIUwyXy1lfmU8=",
+  "Source": "NannyAgency.API",
+  "BasePath": "_content/NannyAgency.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
